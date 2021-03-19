@@ -1,5 +1,4 @@
-Honkit Anchors Plugin
-==============
+# Honkit Anchors Plugin
 
 Add Honkit style heading anchors to your book.
 
@@ -11,6 +10,6 @@ Add the plugin to your `book.json`:
 
 ```json
 {
-  "plugins" : [ "anchors" ]
+  "plugins": ["anchors"]
 }
 ```

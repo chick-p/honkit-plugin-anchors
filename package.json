@@ -1,25 +1,25 @@
 {
-    "name": "honkit-plugin-anchors",
-    "description": "Add Github style heading anchors to your Honkit",
-    "main": "index.js",
-    "version": "0.0.1",
-    "license": "Apache-2.0",
-    "author": "chick-p <chick.p.1120@gmail.com>",
-    "homepage": "https://github.com/chick-p/honkit-plugin-anchors",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/chick-p/honkit-plugin-anchors.git"
-    },
-    "bugs": {
-        "url": "https://github.com/chick-p/honkit-plugin-anchors/issues"
-    },
-    "dependencies": {
-        "cheerio": "*",
-        "github-slugid": "1.0.1"
-    },
-    "devDependencies": {
-        "eslint": "^7.22.0",
-        "eslint-config-prettier": "^8.1.0",
-        "prettier": "^2.2.1"
-    }
+  "name": "honkit-plugin-anchors",
+  "description": "Add Github style heading anchors to your Honkit",
+  "main": "index.js",
+  "version": "0.0.1",
+  "license": "Apache-2.0",
+  "author": "chick-p <chick.p.1120@gmail.com>",
+  "homepage": "https://github.com/chick-p/honkit-plugin-anchors",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chick-p/honkit-plugin-anchors.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chick-p/honkit-plugin-anchors/issues"
+  },
+  "dependencies": {
+    "cheerio": "*",
+    "github-slugid": "1.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "eslint-config-prettier": "^8.1.0",
+    "prettier": "^2.2.1"
+  }
 }
