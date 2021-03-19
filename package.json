@@ -16,5 +16,8 @@
     "dependencies": {
         "cheerio": "*",
         "github-slugid": "1.0.1"
+    },
+    "devDependencies": {
+        "eslint": "^7.22.0"
     }
 }
