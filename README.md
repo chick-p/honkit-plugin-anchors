@@ -10,6 +10,8 @@ Add the plugin to your `book.json`:
 
 ```json
 {
-  "plugins": ["anchors"]
+  "plugins": [
+    "anchors@https://github.com/chick-p/honkit-plugin-anchors.git"
+  ]
 }
 ```
