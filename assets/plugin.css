@@ -1,18 +1,28 @@
 a.plugin-anchor {
-  color: inherit !important;
+  color: inherit;
   display: none;
-  margin-left: -30px;
-  padding-left: 40px;
   cursor: pointer;
   position: absolute;
+}
+
+a.plugin-anchor--before {
+  margin-left: -30px;
+  padding-left: 40px;
   top: 0;
   left: 0;
   bottom: 0;
 }
 
 a.plugin-anchor i {
+  font-size: 16px !important;
+}
+
+a.plugin-anchor--before i {
   margin-left: -30px;
-  font-size: 15px !important;
+}
+
+a.plugin-anchor--after i {
+  margin-left: 8px;
 }
 
 h1,
