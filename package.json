@@ -10,6 +10,9 @@
     "type": "git",
     "url": "https://github.com/chick-p/honkit-plugin-anchors.git"
   },
+  "engines": {
+    "honkit": ">=3.0.0"
+  },
   "bugs": {
     "url": "https://github.com/chick-p/honkit-plugin-anchors/issues"
   },
