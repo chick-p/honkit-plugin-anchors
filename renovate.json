@@ -1,8 +1,0 @@
-{
-  "extends": ["config:base", ":prImmediately"],
-  "timezone": "Asia/Tokyo",
-  "labels": ["renovate"],
-  "schedule": ["every weekend"],
-  "patch": { "automerge": true },
-  "rangeStrategy": "bump"
-}
