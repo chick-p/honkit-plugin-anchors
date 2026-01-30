@@ -1,7 +1,6 @@
 import path from "node:path";
-import { expect, test } from "vitest";
-
 import tester from "honkit-tester";
+import { expect, test } from "vitest";
 
 const htmlContent = `<h1 id="title"><a name="title" class="plugin-anchor plugin-anchor--before" href="#title">
                       <i class="fa fa-link before" aria-hidden="true"></i>
