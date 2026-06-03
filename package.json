@@ -22,7 +22,6 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "cheerio": "^1.2.0",
     "github-slugid": "1.0.1"
   },
   "devDependencies": {

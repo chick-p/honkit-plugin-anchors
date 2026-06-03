@@ -1,9 +1,9 @@
-const cheerio = require("cheerio");
+const { loadHtml } = require("@honkit/html");
 const slug = require("github-slugid");
 
 // insert anchor link into section
 function insertAnchors(content, config) {
-  const $ = cheerio.load(content);
+  const $ = loadHtml(content);
   const { position } = config;
   $(":header").each(function (_i, elem) {
     const header = $(elem);
