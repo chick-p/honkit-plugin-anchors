@@ -25,7 +25,7 @@
     "github-slugid": "1.0.1"
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.5.0",
+    "@biomejs/biome": "^2.5.1",
     "honkit-tester": "^2.0.0",
     "vitest": "^4.1.9"
   },
